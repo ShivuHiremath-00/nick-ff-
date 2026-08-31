@@ -2,8 +2,6 @@
 <br>
 it my first repos
 <br>
-web devlopment full stack 
-<br>
 i am learing now
 <br>
 .
