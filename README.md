@@ -1,8 +1,8 @@
 # shivu
 
 <br>
-it my first repos
+it my first repositry
 <br>
-i am learing now
+i will uplod the files in it
 <br>
 .
